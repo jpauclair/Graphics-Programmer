@@ -77,8 +77,8 @@ Async compute allows overlapping compute work with graphics rendering. While the
 
 - [1.1 Rendering Pipeline Overview](01-01-Rendering-Pipeline-Overview.md) - Command buffer and async compute architecture
 - [23.1 Unity Jobs System](23-01-Unity-Jobs-System.md) - CPU parallelism alternative to GPU compute
-- [24.2 Async Compute](24-02-Async-Compute.md) - Advanced async compute techniques
-- [25.1 GPU-Driven Rendering](25-01-GPU-Driven-Rendering.md) - Compute-based culling and indirect rendering
+- [24.2 Async Compute](05-02-GPU-Side-Optimization.md) - Advanced async compute techniques
+- [25.1 GPU-Driven Rendering](27-03-GPU-Driven-Rendering.md) - Compute-based culling and indirect rendering
 
 ---
 

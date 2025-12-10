@@ -62,8 +62,8 @@ if (request.done) {
 
 - [21.4 GPU Synchronization](21-04-GPU-Synchronization.md) - Command buffers, fences
 - [23.1 Unity Jobs System](23-01-Unity-Jobs-System.md) - Job scheduling
-- [11.1 Rendering Architecture](11-01-Rendering-Architecture.md) - Render pipeline
-- [14.2 GPU Profiling](14-02-GPU-Profiling.md) - Graphics profiling
+- [11.1 Rendering Architecture](11-01-Material-System-Architecture.md) - Render pipeline
+- [14.2 GPU Profiling](04-01-PC-Profiling-Tools.md) - Graphics profiling
 
 ---
 

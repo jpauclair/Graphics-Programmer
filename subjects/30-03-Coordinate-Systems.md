@@ -95,7 +95,7 @@ Matrix4x4 view = Matrix4x4.LookAt(cameraPos, targetPos, Vector3.up);
 - [30.1 Linear Algebra](30-01-Linear-Algebra.md) - Matrix transformations
 - [01.2 Vertex Processing](01-02-Vertex-Processing.md) - Vertex transformation pipeline
 - [16.1 Camera Fundamentals](16-01-Camera-Fundamentals.md) - View and projection matrices
-- [13.2 Shadow Mapping](13-02-Shadow-Mapping.md) - Light space transformations
+- [13.2 Shadow Mapping](13-02-Shadow-Techniques.md) - Light space transformations
 
 ---
 

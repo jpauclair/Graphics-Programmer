@@ -83,7 +83,7 @@ Unity supports two lightmappers: Progressive Lightmapper (default, path tracing,
 - [14.2 Baking Systems](14-02-Baking-Systems.md) - Progressive vs Enlighten
 - [14.3 Light Probes and Reflection](14-03-Light-Probes-And-Reflection.md) - Dynamic object lighting
 - [13.1 Lighting Techniques](13-01-Lighting-Techniques.md) - Realtime vs baked
-- [11.3 Texture Mapping](11-03-Texture-Mapping.md) - UV layout
+- [11.3 Texture Mapping](11-03-Texture-Mapping-Techniques.md) - UV layout
 
 ---
 

@@ -80,8 +80,8 @@ Shader Integration: URP shaders (URP/Lit = PBR, URP/Unlit = unlit, URP/SimpleLit
 
 - [18.1 SRP Architecture](18-01-SRP-Architecture.md) - SRP fundamentals
 - [18.3 High-Definition Render Pipeline](18-03-High-Definition-Render-Pipeline.md) - HDRP comparison
-- [12.1 Introduction to Shaders](12-01-Introduction-To-Shaders.md) - Shader basics
-- [12.4 Shader Graph](12-04-Shader-Graph.md) - Visual shader authoring
+- [12.1 Introduction to Shaders](12-01-Unity-Shader-Languages.md) - Shader basics
+- [12.4 Shader Graph](12-01-Unity-Shader-Languages.md) - Visual shader authoring
 
 ---
 

@@ -105,7 +105,7 @@ void Update()
 
 ## Related Topics
 
-- [13.1 Lighting Fundamentals](13-01-Lighting-Fundamentals.md) - Sky as ambient lighting
+- [13.1 Lighting Fundamentals](13-01-Lighting-Techniques.md) - Sky as ambient lighting
 - [18.3 High-Definition Render Pipeline](18-03-High-Definition-Render-Pipeline.md) - HDRP sky features
 - [20.3 Water and Fluid Rendering](20-03-Water-And-Fluid-Rendering.md) - Sky reflections in water
 - [13.3 Post-Processing](13-03-Post-Processing.md) - Atmosphere post-processing

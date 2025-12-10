@@ -88,7 +88,7 @@ Optimization workflow: enable mesh compression in Unity import settings (Mesh Co
 - [7.2 Mesh Optimization](07-02-Mesh-Optimization.md) - Mesh optimization strategies
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Memory reduction techniques
 - [5.4 Bandwidth Optimization](05-04-Bandwidth-Optimization.md) - Bandwidth savings from reduced vertex size
-- [17.1 LOD Systems](17-01-LOD-Systems.md) - LOD combined with compression
+- [17.1 LOD Systems](17-01-LOD-Fundamentals.md) - LOD combined with compression
 
 ---
 

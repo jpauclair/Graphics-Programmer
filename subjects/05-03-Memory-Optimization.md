@@ -84,7 +84,7 @@ Shader variants inflate builds and runtime memory. A Shader Graph with 10 keywor
 ## Related Topics
 
 - [5.4 Bandwidth Optimization](05-04-Bandwidth-Optimization.md) - Reducing memory bandwidth usage
-- [13.1 Texture Formats and Compression](13-01-Texture-Formats-And-Compression.md) - Texture compression techniques
+- [13.1 Texture Formats and Compression](08-01-Texture-Compression-Formats.md) - Texture compression techniques
 - [7.2 Mesh Optimization](07-02-Mesh-Optimization.md) - Mesh memory reduction
 - [2.1 GPU Memory Hierarchy](02-01-GPU-Memory-Hierarchy.md) - Understanding GPU memory systems
 

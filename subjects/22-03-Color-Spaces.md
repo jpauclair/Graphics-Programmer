@@ -71,7 +71,7 @@ Workflow: sRGB textures (diffuse maps, colors) imported with Gamma = 2.2 (automa
 - [22.1 HDR Rendering Pipeline](22-01-HDR-Rendering-Pipeline.md) - Tone mapping, color accumulation
 - [22.2 HDR Display Output](22-02-HDR-Display-Output.md) - Display standards, HDR output
 - [22.4 Color Grading Workflows](22-04-Color-Grading-Workflows.md) - Grading in linear/sRGB
-- [09.3 Asset Optimization Strategies](09-03-Asset-Optimization-Strategies.md) - Texture compression, formats
+- [09.3 Asset Optimization Strategies](10-01-AssetBundle-Fundamentals.md) - Texture compression, formats
 
 ---
 

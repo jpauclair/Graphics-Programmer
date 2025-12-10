@@ -119,7 +119,7 @@ QualitySettings.SetQualityLevel(1); // Medium preset
 ## Related Topics
 
 - [27.1 Ray-Tracing](27-01-Ray-Tracing.md) - RT implementation details
-- [25.4 Asset Pipeline Optimization](25-04-Asset-Pipeline-Optimization.md) - Addressables streaming
+- [25.4 Asset Pipeline Optimization](25-04-Asset-Pipeline.md) - Addressables streaming
 - [24.3 Scalability Systems](24-03-Scalability-Systems.md) - Quality profiles
 - [32.2 Graphics API Evolution](32-02-Graphics-API-Evolution.md) - DirectX 12 Ultimate, Vulkan
 

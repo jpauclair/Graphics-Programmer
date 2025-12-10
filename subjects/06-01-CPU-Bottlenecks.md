@@ -78,7 +78,7 @@ Distinguishing between main thread and render thread bottlenecks guides optimiza
 - [5.1 CPU-Side Optimization](05-01-CPU-Side-Optimization.md) - Techniques to reduce CPU rendering cost
 - [6.2 GPU Bottlenecks](06-02-GPU-Bottlenecks.md) - Identifying GPU-bound scenarios
 - [23.1 Unity Jobs System](23-01-Unity-Jobs-System.md) - Parallelizing CPU work
-- [24.1 Multithreading Rendering](24-01-Multithreading-Rendering.md) - Render thread optimization
+- [24.1 Multithreading Rendering](23-01-Unity-Jobs-System.md) - Render thread optimization
 
 ---
 

@@ -87,8 +87,8 @@ Standard Shader: Built-In's PBR material (physically-based rendering, metallic/s
 
 - [18.1 SRP Architecture](18-01-SRP-Architecture.md) - SRP fundamentals
 - [18.2 Universal Render Pipeline](18-02-Universal-Render-Pipeline.md) - URP migration
-- [12.1 Introduction to Shaders](12-01-Introduction-To-Shaders.md) - Shader basics
-- [13.1 Lighting Fundamentals](13-01-Lighting-Fundamentals.md) - Lighting setup
+- [12.1 Introduction to Shaders](12-01-Unity-Shader-Languages.md) - Shader basics
+- [13.1 Lighting Fundamentals](13-01-Lighting-Techniques.md) - Lighting setup
 
 ---
 

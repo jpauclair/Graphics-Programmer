@@ -75,7 +75,7 @@ GPU occupancy measures how well threads fill execution units. Low occupancy (<50
 
 - [2.1 GPU Memory Hierarchy](02-01-GPU-Memory-Hierarchy.md) - Memory systems and latency hiding via occupancy
 - [5.2 GPU-Side Optimization](05-02-GPU-Side-Optimization.md) - Optimizing shaders for SIMT execution
-- [12.3 Shader Optimization Techniques](12-03-Shader-Optimization-Techniques.md) - Advanced shader optimization
+- [12.3 Shader Optimization Techniques](12-04-Advanced-Shader-Techniques.md) - Advanced shader optimization
 - [1.6 Compute Pipeline](01-06-Compute-Pipeline.md) - Compute shader thread groups and execution
 
 ---

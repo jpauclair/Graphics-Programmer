@@ -117,9 +117,9 @@ float4 frag(v2f i) : SV_Target
 ## Related Topics
 
 - [19.2 VFX Graph](19-02-VFX-Graph.md) - GPU particle systems
-- [12.2 Writing Custom Shaders](12-02-Writing-Custom-Shaders.md) - Shader programming
+- [12.2 Writing Custom Shaders](12-02-Shader-Types.md) - Shader programming
 - [27.03 GPU-Driven Rendering](27-03-GPU-Driven-Rendering.md) - Advanced GPU techniques
-- [5.2 GPU Optimization](05-02-GPU-Optimization.md) - GPU performance
+- [5.2 GPU Optimization](05-02-GPU-Side-Optimization.md) - GPU performance
 
 ---
 

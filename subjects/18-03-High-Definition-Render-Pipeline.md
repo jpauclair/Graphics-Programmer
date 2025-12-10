@@ -88,7 +88,7 @@ Performance Cost: Significantly more expensive than URP/Built-In (2-4x GPU cost,
 
 - [18.1 SRP Architecture](18-01-SRP-Architecture.md) - SRP fundamentals
 - [18.2 Universal Render Pipeline](18-02-Universal-Render-Pipeline.md) - URP comparison
-- [13.1 Lighting Fundamentals](13-01-Lighting-Fundamentals.md) - Lighting basics
+- [13.1 Lighting Fundamentals](13-01-Lighting-Techniques.md) - Lighting basics
 - [13.3 Post-Processing](13-03-Post-Processing.md) - Post-processing stack
 
 ---

@@ -186,9 +186,9 @@ void Update()
 
 ## Related Topics
 
-- [21.1 Frame Pacing Fundamentals](21-01-Frame-Pacing-Fundamentals.md) - Consistent frame delivery
+- [21.1 Frame Pacing Fundamentals](21-01-Frame-Pacing.md) - Consistent frame delivery
 - [21.2 Console Frame Pacing](21-02-Console-Frame-Pacing.md) - Platform-specific pacing
-- [27.2 Virtual Reality Rendering](27-02-Virtual-Reality-Rendering.md) - VR latency requirements
+- [27.2 Virtual Reality Rendering](27-02-Virtual-Reality.md) - VR latency requirements
 - [32.4 Cloud And Streaming Graphics](32-04-Cloud-And-Streaming-Graphics.md) - Network latency
 
 ---

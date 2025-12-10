@@ -77,7 +77,7 @@ Platform differences are significant: PC GPUs have dedicated VRAM (8-24GB GDDR6)
 - [2.2 Execution Models](02-02-Execution-Models.md) - How memory latency is hidden via occupancy
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Practical memory optimization techniques
 - [5.4 Bandwidth Optimization](05-04-Bandwidth-Optimization.md) - Reducing memory bandwidth usage
-- [13.1 Texture Formats and Compression](13-01-Texture-Formats-And-Compression.md) - Compressing textures to save VRAM
+- [13.1 Texture Formats and Compression](08-01-Texture-Compression-Formats.md) - Compressing textures to save VRAM
 
 ---
 

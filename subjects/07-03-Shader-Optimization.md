@@ -89,8 +89,8 @@ Optimization workflow: profile with GPU profilers (PIX, Razor, Nsight) to identi
 
 ## Related Topics
 
-- [8.1 Shader Optimization Basics](08-01-Shader-Optimization-Basics.md) - Advanced shader optimization techniques
-- [12.1 Shader Programming](12-01-Shader-Programming.md) - Shader development fundamentals
+- [8.1 Shader Optimization Basics](12-04-Advanced-Shader-Techniques.md) - Advanced shader optimization techniques
+- [12.1 Shader Programming](12-01-Unity-Shader-Languages.md) - Shader development fundamentals
 - [5.2 GPU-Side Optimization](05-02-GPU-Side-Optimization.md) - GPU performance optimization
 - [6.2 GPU Bottlenecks](06-02-GPU-Bottlenecks.md) - Fragment-bound identification
 

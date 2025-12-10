@@ -88,8 +88,8 @@ QualitySettings.SetQualityLevel(tier switch {
 
 - [24.1 Mobile GPU Architecture](24-01-Mobile-GPU-Architecture.md) - TBDR, tile-based rendering
 - [24.3 Scalability Systems](24-03-Scalability-Systems.md) - Dynamic quality adjustment
-- [05.2 Memory Optimization](05-02-Memory-Optimization.md) - Asset memory management
-- [14.1 Profiling Fundamentals](14-01-Profiling-Fundamentals.md) - Profiling on device
+- [05.2 Memory Optimization](05-03-Memory-Optimization.md) - Asset memory management
+- [14.1 Profiling Fundamentals](04-01-PC-Profiling-Tools.md) - Profiling on device
 
 ---
 

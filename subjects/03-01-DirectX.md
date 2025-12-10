@@ -80,7 +80,7 @@ Modern PC/Xbox development targets DirectX 12 for maximum performance and featur
 - [2.4 Console-Specific Architecture](02-04-Console-Specific-Architecture.md) - Xbox hardware architecture details
 - [4.1 PC Profiling Tools](04-01-PC-Profiling-Tools.md) - PIX and DirectX profiling
 - [12.1 Unity Shader Languages](12-01-Unity-Shader-Languages.md) - HLSL in Unity shaders
-- [24.2 Async Compute](24-02-Async-Compute.md) - DirectX 12 multi-queue rendering
+- [24.2 Async Compute](05-02-GPU-Side-Optimization.md) - DirectX 12 multi-queue rendering
 
 ---
 

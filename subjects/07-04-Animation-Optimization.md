@@ -92,9 +92,9 @@ Optimization workflow: profile animation CPU cost (Profiler > MeshSkinning), ide
 
 ## Related Topics
 
-- [23.1 Multithreading and Jobs System](23-01-Multithreading-Jobs.md) - Jobs-based animation evaluation
+- [23.1 Multithreading and Jobs System](23-01-Unity-Jobs-System.md) - Jobs-based animation evaluation
 - [5.1 CPU-Side Optimization](05-01-CPU-Side-Optimization.md) - CPU performance optimization
-- [17.1 LOD Systems](17-01-LOD-Systems.md) - LOD strategies including animation LOD
+- [17.1 LOD Systems](17-01-LOD-Fundamentals.md) - LOD strategies including animation LOD
 - [6.1 CPU Bottlenecks](06-01-CPU-Bottlenecks.md) - Identifying animation bottlenecks
 
 ---

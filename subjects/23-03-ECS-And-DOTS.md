@@ -54,7 +54,7 @@ public partial class PhysicsSystem : SystemBase {
 - [23.1 Unity Jobs System](23-01-Unity-Jobs-System.md) - Job scheduling, Burst
 - [23.2 Burst Compiler](23-02-Burst-Compiler.md) - ECS compilation, optimization
 - [23.4 Thread-Safe Graphics Operations](23-04-Thread-Safe-Graphics-Operations.md) - Graphics + ECS
-- [06.1 CPU Architecture](06-01-CPU-Architecture.md) - Cache locality, performance
+- [06.1 CPU Architecture](06-01-CPU-Bottlenecks.md) - Cache locality, performance
 
 ---
 

@@ -84,7 +84,7 @@ Monitoring bandwidth is critical: profilers (Razor, PIX, Nsight) show bandwidth 
 ## Related Topics
 
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Reducing memory consumption
-- [13.1 Texture Formats and Compression](13-01-Texture-Formats-And-Compression.md) - Texture compression details
+- [13.1 Texture Formats and Compression](08-01-Texture-Compression-Formats.md) - Texture compression details
 - [2.1 GPU Memory Hierarchy](02-01-GPU-Memory-Hierarchy.md) - Understanding memory systems
 - [6.2 GPU Bottlenecks](06-02-GPU-Bottlenecks.md) - Identifying bandwidth bottlenecks
 

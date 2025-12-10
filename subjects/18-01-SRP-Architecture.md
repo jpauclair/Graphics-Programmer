@@ -118,7 +118,7 @@ public class MyRenderPipeline : RenderPipeline
 - [18.2 Universal Render Pipeline](18-02-Universal-Render-Pipeline.md) - URP details
 - [18.3 High-Definition Render Pipeline](18-03-High-Definition-Render-Pipeline.md) - HDRP features
 - [18.5 Custom Render Pipelines](18-05-Custom-Render-Pipelines.md) - Building custom SRP
-- [12.3 Shader Compilation and Variants](12-03-Shader-Compilation-Variants.md) - SRP shader compatibility
+- [12.3 Shader Compilation and Variants](12-05-Shader-Compilation-And-Caching.md) - SRP shader compatibility
 
 ---
 

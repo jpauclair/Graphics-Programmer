@@ -79,7 +79,7 @@ Switch's 4GB shared memory (3GB usable after OS reservation) and 25.6 GB/s bandw
 - [2.4 Console-Specific Architecture](02-04-Console-Specific-Architecture.md) - Switch Tegra X1 architecture details
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Memory management strategies
 - [5.4 Bandwidth Optimization](05-04-Bandwidth-Optimization.md) - Reducing bandwidth usage
-- [13.1 Texture Formats and Compression](13-01-Texture-Formats-And-Compression.md) - ASTC compression for Switch
+- [13.1 Texture Formats and Compression](08-01-Texture-Compression-Formats.md) - ASTC compression for Switch
 
 ---
 

@@ -78,7 +78,7 @@ Modern GPUs fetch vertices from cache before processing. Interleaved vertex form
 - [7.2 Mesh Optimization](07-02-Mesh-Optimization.md) - Vertex cache optimization and LOD generation
 - [7.4 Animation Optimization](07-04-Animation-Optimization.md) - Skinning and blend shape optimization
 - [12.2 Shader Types](12-02-Shader-Types.md) - Vertex shader programming patterns
-- [13.2 Vertex Compression](13-02-Vertex-Compression.md) - Advanced compression techniques
+- [13.2 Vertex Compression](08-02-Mesh-Compression.md) - Advanced compression techniques
 
 ---
 

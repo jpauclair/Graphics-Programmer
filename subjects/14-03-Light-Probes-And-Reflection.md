@@ -81,7 +81,7 @@ Light probe placement: volumetric coverage (place probes in 3D grid throughout s
 ## Related Topics
 
 - [14.1 Lightmapping Fundamentals](14-01-Lightmapping-Fundamentals.md) - Static lighting
-- [11.2 PBR Properties](11-02-PBR-Properties.md) - Metallic reflections
+- [11.2 PBR Properties](11-02-PBR-Material-Properties.md) - Metallic reflections
 - [13.1 Lighting Techniques](13-01-Lighting-Techniques.md) - Baked vs realtime
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Probe memory management
 

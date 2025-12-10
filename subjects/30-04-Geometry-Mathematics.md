@@ -125,8 +125,8 @@ float DistanceToPlane(Vector3 point, Vector3 planeNormal, Vector3 planePoint)
 
 - [30.1 Linear Algebra](30-01-Linear-Algebra.md) - Cross product, dot product
 - [01.2 Vertex Processing](01-02-Vertex-Processing.md) - Vertex attribute interpolation
-- [06.2 CPU Culling Techniques](06-02-CPU-Culling-Techniques.md) - Frustum culling math
-- [17.2 LOD Selection](17-02-LOD-Selection.md) - Distance calculations
+- [06.2 CPU Culling Techniques](06-01-CPU-Bottlenecks.md) - Frustum culling math
+- [17.2 LOD Selection](17-02-LOD-Generation.md) - Distance calculations
 
 ---
 

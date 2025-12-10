@@ -78,7 +78,7 @@ PS5's architecture (36 CUs at 2.23 GHz, 448 GB/s bandwidth, 16GB unified memory)
 
 - [2.4 Console-Specific Architecture](02-04-Console-Specific-Architecture.md) - PlayStation GPU architecture details
 - [4.2 Console Profiling Tools](04-02-Console-Profiling-Tools.md) - Razor and Tuner profiling
-- [24.2 Async Compute](24-02-Async-Compute.md) - Async compute strategies for PlayStation
+- [24.2 Async Compute](05-02-GPU-Side-Optimization.md) - Async compute strategies for PlayStation
 - [12.1 Unity Shader Languages](12-01-Unity-Shader-Languages.md) - Shader language comparison
 
 ---

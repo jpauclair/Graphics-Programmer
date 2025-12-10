@@ -76,7 +76,7 @@ Early-Z optimization checks depth before fragment shading, rejecting occluded fr
 ## Related Topics
 
 - [5.2 GPU-Side Optimization](05-02-GPU-Side-Optimization.md) - Optimizing fragment shader performance
-- [12.3 Shader Optimization Techniques](12-03-Shader-Optimization-Techniques.md) - Advanced shader optimization
+- [12.3 Shader Optimization Techniques](12-04-Advanced-Shader-Techniques.md) - Advanced shader optimization
 - [1.5 Output Merger](01-05-Output-Merger.md) - Next pipeline stage (depth/blend)
 - [6.2 GPU Bottlenecks](06-02-GPU-Bottlenecks.md) - Identifying fragment-bound scenarios
 

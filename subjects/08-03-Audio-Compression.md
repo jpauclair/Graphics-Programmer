@@ -89,7 +89,7 @@ Optimization workflow: audit audio assets (identify uncompressed), select format
 
 - [7.5 Audio Asset Optimization](07-05-Audio-Asset-Optimization.md) - Audio optimization strategies
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Memory reduction
-- [10.1 Asset Bundling and Streaming](10-01-Asset-Bundling.md) - Audio streaming via AssetBundles
+- [10.1 Asset Bundling and Streaming](10-01-AssetBundle-Fundamentals.md) - Audio streaming via AssetBundles
 - [6.3 Memory Bottlenecks](06-03-Memory-Bottlenecks.md) - Memory bottleneck identification
 
 ---

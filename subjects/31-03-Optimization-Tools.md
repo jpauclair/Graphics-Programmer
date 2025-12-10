@@ -106,8 +106,8 @@ PIX (Performance Investigator for Xbox): Microsoft's DirectX profiler (free, Win
 
 ## Related Topics
 
-- [04.1 Unity Profiler](04-01-Unity-Profiler.md) - Built-in profiling
-- [26.2 GPU Debugging Tools](26-02-GPU-Debugging-Tools.md) - RenderDoc/PIX details
+- [04.1 Unity Profiler](04-03-Unity-Built-In-Tools.md) - Built-in profiling
+- [26.2 GPU Debugging Tools](26-02-GPU-Debugging.md) - RenderDoc/PIX details
 - [26.3 Performance Debugging](26-03-Performance-Debugging.md) - Bottleneck identification
 - [25.1 Build Optimization](25-01-Build-Optimization.md) - Shader variant stripping
 

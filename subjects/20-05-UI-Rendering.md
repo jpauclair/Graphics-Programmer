@@ -89,10 +89,10 @@ UGUI vs UI Toolkit: UGUI (traditional, GameObject-based, immediate-mode layout, 
 
 ## Related Topics
 
-- [15.1 Render Targets and Frame Buffers](15-01-Render-Targets-And-Frame-Buffers.md) - UI render textures
-- [09.3 Asset Optimization Strategies](09-03-Asset-Optimization-Strategies.md) - UI texture compression
+- [15.1 Render Targets and Frame Buffers](15-01-RenderTexture-Management.md) - UI render textures
+- [09.3 Asset Optimization Strategies](10-01-AssetBundle-Fundamentals.md) - UI texture compression
 - [18.2 Universal Render Pipeline](18-02-Universal-Render-Pipeline.md) - URP UI rendering
-- [16.1 Camera Rendering](16-01-Camera-Rendering.md) - Screen Space Camera mode
+- [16.1 Camera Rendering](16-01-Camera-Fundamentals.md) - Screen Space Camera mode
 
 ---
 

@@ -89,9 +89,9 @@ if (supports120Hz) {
 ## Related Topics
 
 - [21.1 Frame Pacing](21-01-Frame-Pacing.md) - General frame timing
-- [06.2 GPU Architecture](06-02-GPU-Architecture.md) - Console GPU specs
-- [14.1 Profiling Fundamentals](14-01-Profiling-Fundamentals.md) - Thermal profiling
-- [25.1 Build Pipeline](25-01-Build-Pipeline.md) - Console builds
+- [06.2 GPU Architecture](02-03-GPU-Components.md) - Console GPU specs
+- [14.1 Profiling Fundamentals](04-01-PC-Profiling-Tools.md) - Thermal profiling
+- [25.1 Build Pipeline](25-01-Build-Optimization.md) - Console builds
 
 ---
 

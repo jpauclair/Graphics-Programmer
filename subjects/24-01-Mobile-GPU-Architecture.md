@@ -63,10 +63,10 @@ renderPassDescriptor.depthAttachment.storeAction = .dontCare // Discard depth
 
 ## Related Topics
 
-- [06.2 GPU Architecture](06-02-GPU-Architecture.md) - Desktop GPU comparison
+- [06.2 GPU Architecture](02-03-GPU-Components.md) - Desktop GPU comparison
 - [24.2 Mobile Optimization](24-02-Mobile-Optimization.md) - Mobile-specific optimization
-- [05.3 Bandwidth Optimization](05-03-Bandwidth-Optimization.md) - Memory bandwidth concepts
-- [14.2 GPU Profiling](14-02-GPU-Profiling.md) - Profiling techniques
+- [05.3 Bandwidth Optimization](05-04-Bandwidth-Optimization.md) - Memory bandwidth concepts
+- [14.2 GPU Profiling](04-01-PC-Profiling-Tools.md) - Profiling techniques
 
 ---
 

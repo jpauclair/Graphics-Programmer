@@ -130,8 +130,8 @@ float smooth(float t) {
 ## Related Topics
 
 - [30.1 Linear Algebra](30-01-Linear-Algebra.md) - Vector interpolation
-- [16.3 Camera Animation](16-03-Camera-Animation.md) - Camera path interpolation
-- [18.3 Animation Blending](18-03-Animation-Blending.md) - Keyframe interpolation
+- [16.3 Camera Animation](16-01-Camera-Fundamentals.md) - Camera path interpolation
+- [18.3 Animation Blending](18-02-Universal-Render-Pipeline.md) - Keyframe interpolation
 - [30.2 Color Spaces](30-02-Color-Spaces.md) - Color interpolation
 
 ---

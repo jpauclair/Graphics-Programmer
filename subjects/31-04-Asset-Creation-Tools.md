@@ -136,9 +136,9 @@ class CustomAssetProcessor : AssetPostprocessor
 
 ## Related Topics
 
-- [09.1 Texture Import Settings](09-01-Texture-Import-Settings.md) - Texture compression, sRGB
-- [09.2 Mesh Import Settings](09-02-Mesh-Import-Settings.md) - FBX import configuration
-- [25.4 Asset Pipeline Optimization](25-04-Asset-Pipeline-Optimization.md) - AssetPostprocessor
+- [09.1 Texture Import Settings](10-01-AssetBundle-Fundamentals.md) - Texture compression, sRGB
+- [09.2 Mesh Import Settings](10-01-AssetBundle-Fundamentals.md) - FBX import configuration
+- [25.4 Asset Pipeline Optimization](25-04-Asset-Pipeline.md) - AssetPostprocessor
 - [31.1 Shader Tools](31-01-Shader-Tools.md) - Material creation
 
 ---

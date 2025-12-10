@@ -44,8 +44,8 @@ Burst-Compatible Code: restrictions ensure safe compilation. Allowed: structs, b
 
 - [23.1 Unity Jobs System](23-01-Unity-Jobs-System.md) - Job scheduling, dependencies
 - [23.3 ECS and DOTS](23-03-ECS-And-DOTS.md) - Data-oriented with Burst
-- [14.2 GPU Profiling](14-02-GPU-Profiling.md) - GPU vs CPU profiling
-- [06.1 CPU Architecture](06-01-CPU-Architecture.md) - SIMD, multi-core concepts
+- [14.2 GPU Profiling](04-01-PC-Profiling-Tools.md) - GPU vs CPU profiling
+- [06.1 CPU Architecture](06-01-CPU-Bottlenecks.md) - SIMD, multi-core concepts
 
 ---
 

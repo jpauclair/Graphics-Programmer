@@ -86,10 +86,10 @@ void Update() {
 
 ## Related Topics
 
-- [06.2 GPU Architecture](06-02-GPU-Architecture.md) - GPU scheduling, pipeline depth
+- [06.2 GPU Architecture](02-03-GPU-Components.md) - GPU scheduling, pipeline depth
 - [21.2 Console Frame Pacing](21-02-Console-Frame-Pacing.md) - Platform-specific timing
 - [21.4 GPU Synchronization](21-04-GPU-Synchronization.md) - GPU command buffering
-- [14.1 Profiling Fundamentals](14-01-Profiling-Fundamentals.md) - Frame time measurement
+- [14.1 Profiling Fundamentals](04-01-PC-Profiling-Tools.md) - Frame time measurement
 
 ---
 

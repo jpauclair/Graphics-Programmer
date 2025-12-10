@@ -88,7 +88,7 @@ Optimization workflow: audit meshes via Statistics window (show triangle/vertex 
 
 ## Related Topics
 
-- [17.1 LOD Systems](17-01-LOD-Systems.md) - Comprehensive LOD strategies
+- [17.1 LOD Systems](17-01-LOD-Fundamentals.md) - Comprehensive LOD strategies
 - [5.1 CPU-Side Optimization](05-01-CPU-Side-Optimization.md) - Draw call reduction via batching
 - [6.2 GPU Bottlenecks](06-02-GPU-Bottlenecks.md) - Vertex-bound scenario identification
 - [2.3 GPU Components](02-03-GPU-Components.md) - Vertex processing hardware

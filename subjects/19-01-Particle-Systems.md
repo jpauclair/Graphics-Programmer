@@ -183,11 +183,11 @@ void Update()
 
 ## Related Topics
 
-- [19.2 Trail Renderers](19-02-Trail-Renderers.md) - Particle trails
-- [19.3 Billboard Rendering](19-03-Billboard-Rendering.md) - Particle billboards
-- [06.3 GPU Instancing](06-03-GPU-Instancing.md) - Batch particles
-- [09.1 Texture Import Settings](09-01-Texture-Import-Settings.md) - Particle texture atlases
+- [19.2 Trail Renderers](19-02-VFX-Graph.md) - Particle trails
+- [19.3 Billboard Rendering](19-03-Procedural-Effects.md) - Particle billboards
+- [06.3 GPU Instancing](05-02-GPU-Side-Optimization.md) - Batch particles
+- [09.1 Texture Import Settings](10-01-AssetBundle-Fundamentals.md) - Particle texture atlases
 
 ---
 
-[← Previous: Chapter 18 Animation](../chapters/18-Animation-Systems.md) | [Next: 19.2 Trail Renderers →](19-02-Trail-Renderers.md)
+[← Previous: Chapter 18 Animation](../chapters/18-Animation-Systems.md) | [Next: 19.2 Trail Renderers →](19-02-VFX-Graph.md)

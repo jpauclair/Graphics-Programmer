@@ -88,10 +88,10 @@ Optimization workflow: audit existing textures via Memory Profiler (identify lar
 
 ## Related Topics
 
-- [13.1 Texture Formats and Compression](13-01-Texture-Formats-And-Compression.md) - Detailed compression techniques
+- [13.1 Texture Formats and Compression](08-01-Texture-Compression-Formats.md) - Detailed compression techniques
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Memory reduction strategies
 - [5.4 Bandwidth Optimization](05-04-Bandwidth-Optimization.md) - Bandwidth reduction through compression
-- [11.1 Materials and Textures](11-01-Materials-And-Textures.md) - Material system overview
+- [11.1 Materials and Textures](11-01-Material-System-Architecture.md) - Material system overview
 
 ---
 

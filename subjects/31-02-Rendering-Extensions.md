@@ -113,8 +113,8 @@ Volumetric Effects: Aura 2 ($45, volumetric lighting/fog), Enviro (weather syste
 
 ## Related Topics
 
-- [15.1 Post-Processing Pipeline](15-01-Post-Processing-Pipeline.md) - Post-processing architecture
-- [15.2 Common Post Effects](15-02-Common-Post-Effects.md) - Bloom, AO, DOF details
+- [15.1 Post-Processing Pipeline](13-03-Post-Processing.md) - Post-processing architecture
+- [15.2 Common Post Effects](13-03-Post-Processing.md) - Bloom, AO, DOF details
 - [31.1 Shader Tools](31-01-Shader-Tools.md) - Custom shader creation
 - [31.3 Optimization Tools](31-03-Optimization-Tools.md) - Profiling extensions
 

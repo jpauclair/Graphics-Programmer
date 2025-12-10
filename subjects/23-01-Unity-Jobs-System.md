@@ -85,7 +85,7 @@ handle.Complete(); // Wait if needed
 - [23.2 Burst Compiler](23-02-Burst-Compiler.md) - Job compilation, optimization
 - [23.3 ECS and DOTS](23-03-ECS-And-DOTS.md) - Data-oriented architecture
 - [23.4 Thread-Safe Graphics Operations](23-04-Thread-Safe-Graphics-Operations.md) - Graphics + threading
-- [14.1 Profiling Fundamentals](14-01-Profiling-Fundamentals.md) - Job profiling
+- [14.1 Profiling Fundamentals](04-01-PC-Profiling-Tools.md) - Job profiling
 
 ---
 

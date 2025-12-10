@@ -67,8 +67,8 @@ The GPU processes vertices and fragments in waves or warps (groups of 32-64 thre
 
 - [5.1 CPU-Side Optimization](05-01-CPU-Side-Optimization.md) - Reducing CPU overhead
 - [6.2 GPU Bottlenecks](06-02-GPU-Bottlenecks.md) - Identifying GPU-bound scenarios
-- [12.3 Shader Optimization Techniques](12-03-Shader-Optimization-Techniques.md) - Advanced shader optimization
-- [13.1 Texture Formats and Compression](13-01-Texture-Formats-And-Compression.md) - Optimizing texture memory
+- [12.3 Shader Optimization Techniques](12-04-Advanced-Shader-Techniques.md) - Advanced shader optimization
+- [13.1 Texture Formats and Compression](08-01-Texture-Compression-Formats.md) - Optimizing texture memory
 
 ---
 

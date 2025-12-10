@@ -78,9 +78,9 @@ if (request.done) {
 ## Related Topics
 
 - [21.1 Frame Pacing](21-01-Frame-Pacing.md) - Frame timing, frame budgets
-- [06.2 GPU Architecture](06-02-GPU-Architecture.md) - GPU pipeline, queues
-- [14.2 GPU Profiling](14-02-GPU-Profiling.md) - GPU bottleneck identification
-- [11.1 Rendering Architecture](11-01-Rendering-Architecture.md) - Rendering pipeline
+- [06.2 GPU Architecture](02-03-GPU-Components.md) - GPU pipeline, queues
+- [14.2 GPU Profiling](04-01-PC-Profiling-Tools.md) - GPU bottleneck identification
+- [11.1 Rendering Architecture](11-01-Material-System-Architecture.md) - Rendering pipeline
 
 ---
 

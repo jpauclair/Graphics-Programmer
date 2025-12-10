@@ -107,10 +107,10 @@ public static byte[] Decompress(byte[] data) {
 
 ## Related Topics
 
-- [10.1 Asset Bundling and Streaming](10-01-Asset-Bundling.md) - AssetBundle compression strategies
-- [25.1 Build Pipeline and Workflow](25-01-Build-Pipeline.md) - Build compression
+- [10.1 Asset Bundling and Streaming](10-01-AssetBundle-Fundamentals.md) - AssetBundle compression strategies
+- [25.1 Build Pipeline and Workflow](25-01-Build-Optimization.md) - Build compression
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Memory reduction
-- [21.1 Frame Management](21-01-Frame-Management.md) - Avoiding loading hitches
+- [21.1 Frame Management](21-01-Frame-Pacing.md) - Avoiding loading hitches
 
 ---
 

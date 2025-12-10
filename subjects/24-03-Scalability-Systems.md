@@ -93,7 +93,7 @@ void Update() {
 - [24.1 Mobile GPU Architecture](24-01-Mobile-GPU-Architecture.md) - Hardware differences
 - [24.2 Mobile Optimization](24-02-Mobile-Optimization.md) - Optimization techniques
 - [24.4 Mobile-Specific Features](24-04-Mobile-Specific-Features.md) - Platform features
-- [14.1 Profiling Fundamentals](14-01-Profiling-Fundamentals.md) - Measurement techniques
+- [14.1 Profiling Fundamentals](04-01-PC-Profiling-Tools.md) - Measurement techniques
 
 ---
 

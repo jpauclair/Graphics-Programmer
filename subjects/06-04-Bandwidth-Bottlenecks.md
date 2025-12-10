@@ -90,7 +90,7 @@ Identifying bandwidth bottlenecks requires platform profilers (PIX, Razor, Nsigh
 - [5.4 Bandwidth Optimization](05-04-Bandwidth-Optimization.md) - Bandwidth reduction techniques
 - [6.3 Memory Bottlenecks](06-03-Memory-Bottlenecks.md) - Memory capacity issues
 - [2.1 GPU Memory Hierarchy](02-01-GPU-Memory-Hierarchy.md) - Understanding memory systems
-- [13.1 Texture Formats and Compression](13-01-Texture-Formats-And-Compression.md) - Texture compression methods
+- [13.1 Texture Formats and Compression](08-01-Texture-Compression-Formats.md) - Texture compression methods
 
 ---
 

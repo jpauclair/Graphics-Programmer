@@ -77,9 +77,9 @@ Depth testing alone is simple, but combined with stencil operations and blending
 ## Related Topics
 
 - [1.4 Fragment Processing](01-04-Fragment-Processing.md) - Previous pipeline stage before output merger
-- [8.1 Deferred Rendering](08-01-Deferred-Rendering.md) - MRT usage for G-buffer rendering
-- [19.1 Shadows Fundamentals](19-01-Shadows-Fundamentals.md) - Stencil shadow volumes
-- [20.1 Transparency Techniques](20-01-Transparency-Techniques.md) - Alpha blending and OIT
+- [8.1 Deferred Rendering](13-05-Advanced-Rendering.md) - MRT usage for G-buffer rendering
+- [19.1 Shadows Fundamentals](13-02-Shadow-Techniques.md) - Stencil shadow volumes
+- [20.1 Transparency Techniques](13-04-Transparency-And-Alpha.md) - Alpha blending and OIT
 
 ---
 

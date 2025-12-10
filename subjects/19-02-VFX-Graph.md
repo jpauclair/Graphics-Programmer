@@ -84,7 +84,7 @@ Workflow: Create VFX Graph asset (Assets > Create > Visual Effects > Visual Effe
 
 - [19.1 Particle Systems](19-01-Particle-Systems.md) - CPU-based particles
 - [19.3 Procedural Effects](19-03-Procedural-Effects.md) - Compute shader effects
-- [12.4 Shader Graph](12-04-Shader-Graph.md) - Visual shader authoring
+- [12.4 Shader Graph](12-01-Unity-Shader-Languages.md) - Visual shader authoring
 - [18.2 Universal Render Pipeline](18-02-Universal-Render-Pipeline.md) - URP integration
 
 ---

@@ -87,9 +87,9 @@ Optimization workflow: audit audio assets via Audio Import Settings and Memory P
 ## Related Topics
 
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Memory reduction strategies
-- [10.1 Asset Bundling and Streaming](10-01-Asset-Bundling.md) - Asset loading strategies
+- [10.1 Asset Bundling and Streaming](10-01-AssetBundle-Fundamentals.md) - Asset loading strategies
 - [6.3 Memory Bottlenecks](06-03-Memory-Bottlenecks.md) - Memory bottleneck identification
-- [25.1 Build Pipeline and Workflow](25-01-Build-Pipeline.md) - Build optimization
+- [25.1 Build Pipeline and Workflow](25-01-Build-Optimization.md) - Build optimization
 
 ---
 

@@ -88,8 +88,8 @@ Rendering Strategies: GPU Instancing (mandatory, thousands of trees = one draw c
 
 - [20.1 Terrain Rendering](20-01-Terrain-Rendering.md) - Terrain + vegetation integration
 - [17.1 LOD Fundamentals](17-01-LOD-Fundamentals.md) - LOD systems
-- [5.2 GPU Optimization](05-02-GPU-Optimization.md) - GPU performance
-- [12.2 Writing Custom Shaders](12-02-Writing-Custom-Shaders.md) - Custom vegetation shaders
+- [5.2 GPU Optimization](05-02-GPU-Side-Optimization.md) - GPU performance
+- [12.2 Writing Custom Shaders](12-02-Shader-Types.md) - Custom vegetation shaders
 
 ---
 

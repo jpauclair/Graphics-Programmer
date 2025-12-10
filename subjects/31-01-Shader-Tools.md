@@ -112,9 +112,9 @@ Branch: connect to Normal input (enabled/disabled path)
 
 ## Related Topics
 
-- [11.1 Shader Fundamentals](11-01-Shader-Fundamentals.md) - HLSL basics
-- [11.3 Custom Shader Writing](11-03-Custom-Shader-Writing.md) - Hand-coded shaders
-- [12.3 URP Shader Graph](12-03-URP-Shader-Graph.md) - URP integration
+- [11.1 Shader Fundamentals](12-01-Unity-Shader-Languages.md) - HLSL basics
+- [11.3 Custom Shader Writing](12-02-Shader-Types.md) - Hand-coded shaders
+- [12.3 URP Shader Graph](12-01-Unity-Shader-Languages.md) - URP integration
 - [31.2 Rendering Extensions](31-02-Rendering-Extensions.md) - Post-processing tools
 
 ---

@@ -89,7 +89,7 @@ Shader Complexity: Simple water (unlit, animated UVs, single texture, no reflect
 ## Related Topics
 
 - [13.3 Post-Processing](13-03-Post-Processing.md) - Underwater post-processing
-- [12.2 Writing Custom Shaders](12-02-Writing-Custom-Shaders.md) - Custom water shaders
+- [12.2 Writing Custom Shaders](12-02-Shader-Types.md) - Custom water shaders
 - [19.3 Procedural Effects](19-03-Procedural-Effects.md) - Fluid simulation
 - [20.4 Sky and Atmospheric Rendering](20-04-Sky-And-Atmospheric-Rendering.md) - Sky reflections in water
 

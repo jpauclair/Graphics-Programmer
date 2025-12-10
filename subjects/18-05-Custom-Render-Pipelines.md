@@ -196,8 +196,8 @@ Shader "MyPipeline/Lit"
 
 - [18.1 SRP Architecture](18-01-SRP-Architecture.md) - SRP fundamentals
 - [18.2 Universal Render Pipeline](18-02-Universal-Render-Pipeline.md) - URP reference
-- [12.2 Writing Custom Shaders](12-02-Writing-Custom-Shaders.md) - Custom shader development
-- [5.1 CPU Optimization](05-01-CPU-Optimization.md) - Performance optimization
+- [12.2 Writing Custom Shaders](12-02-Shader-Types.md) - Custom shader development
+- [5.1 CPU Optimization](05-01-CPU-Side-Optimization.md) - Performance optimization
 
 ---
 

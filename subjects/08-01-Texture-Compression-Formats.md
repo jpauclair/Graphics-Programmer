@@ -89,7 +89,7 @@ Optimization workflow: audit textures (identify uncompressed), select format per
 ## Related Topics
 
 - [7.1 Texture Optimization](07-01-Texture-Optimization.md) - Texture optimization strategies
-- [13.1 Texture Formats and Compression](13-01-Texture-Formats-And-Compression.md) - Advanced compression techniques
+- [13.1 Texture Formats and Compression](08-01-Texture-Compression-Formats.md) - Advanced compression techniques
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Memory reduction
 - [5.4 Bandwidth Optimization](05-04-Bandwidth-Optimization.md) - Bandwidth savings from compression
 

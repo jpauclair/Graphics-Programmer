@@ -136,7 +136,7 @@ IEnumerator GenerateTexture(string prompt)
 ## Related Topics
 
 - [27.1 Ray-Tracing](27-01-Ray-Tracing.md) - RT denoising
-- [15.3 Temporal Anti-Aliasing](15-03-Temporal-Anti-Aliasing.md) - TAA + upscaling
+- [15.3 Temporal Anti-Aliasing](13-04-Transparency-And-Alpha.md) - TAA + upscaling
 - [32.1 Next Generation Consoles](32-01-Next-Generation-Consoles.md) - Console upscaling (FSR)
 - [32.4 Cloud And Streaming Graphics](32-04-Cloud-And-Streaming-Graphics.md) - Remote ML inference
 

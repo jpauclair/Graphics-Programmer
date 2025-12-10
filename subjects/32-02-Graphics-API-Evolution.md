@@ -161,7 +161,7 @@ void ClosestHit(inout Payload payload, in BuiltInTriangleIntersectionAttributes 
 
 ## Related Topics
 
-- [03.1 DirectX vs Vulkan vs Metal](03-01-DirectX-vs-Vulkan-vs-Metal.md) - API comparison
+- [03.1 DirectX vs Vulkan vs Metal](03-04-Cross-Platform-APIs.md) - API comparison
 - [27.1 Ray-Tracing](27-01-Ray-Tracing.md) - DXR/VK_RT implementation
 - [27.3 GPU-Driven Rendering](27-03-GPU-Driven-Rendering.md) - Mesh shaders, indirect draws
 - [32.1 Next Generation Consoles](32-01-Next-Generation-Consoles.md) - DX12 Ultimate features

@@ -82,7 +82,7 @@ Architecture LOD: Silhouette critical (buildings recognized by outline, not inte
 - [17.1 LOD Fundamentals](17-01-LOD-Fundamentals.md) - LOD basics
 - [17.2 LOD Generation](17-02-LOD-Generation.md) - LOD creation methods
 - [7.2 Mesh Optimization](07-02-Mesh-Optimization.md) - Mesh reduction techniques
-- [7.5 Animation and Rigging](07-05-Animation-And-Rigging.md) - Skeletal optimization
+- [7.5 Animation and Rigging](07-04-Animation-Optimization.md) - Skeletal optimization
 
 ---
 

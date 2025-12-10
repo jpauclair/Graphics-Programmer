@@ -124,7 +124,7 @@ void OnApplicationPause(bool isPaused) {
 - [24.1 Mobile GPU Architecture](24-01-Mobile-GPU-Architecture.md) - Hardware constraints
 - [24.2 Mobile Optimization](24-02-Mobile-Optimization.md) - Battery & thermal management
 - [24.3 Scalability Systems](24-03-Scalability-Systems.md) - Quality tiers
-- [08.3 Input System](08-03-Input-System.md) - Input handling architecture
+- [08.3 Input System](10-01-AssetBundle-Fundamentals.md) - Input handling architecture
 
 ---
 

@@ -92,7 +92,7 @@ Shader complexity scales with GPU tier: Low targets GTX 1060 level (50-100 ALU i
 
 - [3.1 DirectX](03-01-DirectX.md) - DirectX API details
 - [8.1 Texture Compression Formats](08-01-Texture-Compression-Formats.md) - BC7/BC5/BC6H compression
-- [24.1 Mobile and Cross-Platform](24-01-Mobile-Cross-Platform.md) - Cross-platform considerations
+- [24.1 Mobile and Cross-Platform](09-01-PC-Platform.md) - Cross-platform considerations
 - [4.1 PC Profiling Tools](04-01-PC-Profiling-Tools.md) - PIX, RenderDoc, Nsight
 
 ---

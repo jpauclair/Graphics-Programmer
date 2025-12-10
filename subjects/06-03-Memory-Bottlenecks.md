@@ -83,7 +83,7 @@ Resolving memory bottlenecks requires measurement first. Establish baseline memo
 
 - [5.3 Memory Optimization](05-03-Memory-Optimization.md) - Memory reduction techniques
 - [6.4 Bandwidth Bottlenecks](06-04-Bandwidth-Bottlenecks.md) - Memory bandwidth issues
-- [13.4 Texture Streaming](13-04-Texture-Streaming.md) - Streaming implementation details
+- [13.4 Texture Streaming](10-02-Loading-Strategies.md) - Streaming implementation details
 - [2.1 GPU Memory Hierarchy](02-01-GPU-Memory-Hierarchy.md) - Understanding GPU memory
 
 ---

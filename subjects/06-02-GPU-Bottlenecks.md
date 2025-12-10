@@ -86,7 +86,7 @@ GPU architecture varies significantly across platforms. NVIDIA and AMD PC GPUs p
 
 - [5.2 GPU-Side Optimization](05-02-GPU-Side-Optimization.md) - Shader and GPU optimization techniques
 - [6.1 CPU Bottlenecks](06-01-CPU-Bottlenecks.md) - Distinguishing CPU vs GPU bottlenecks
-- [13.1 Texture Formats and Compression](13-01-Texture-Formats-And-Compression.md) - Reducing texture memory bandwidth
+- [13.1 Texture Formats and Compression](08-01-Texture-Compression-Formats.md) - Reducing texture memory bandwidth
 - [17.1 LOD Fundamentals](17-01-LOD-Fundamentals.md) - Level of detail for vertex optimization
 
 ---
